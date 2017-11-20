@@ -1,6 +1,8 @@
 # EnhancedScroll
 ### performant custom scroll events and custom scroll propertys
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/enhanced-scroll.svg)](https://greenkeeper.io/)
+
 EnhancedScroll gives you custom scroll events like scroll:start, scroll:progress and scroll:end for better event / action handling
 the events are triggered only in animation frames for the most performant way of default DOM manipulation.
 
